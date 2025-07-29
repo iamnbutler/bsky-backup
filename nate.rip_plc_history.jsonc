@@ -1,0 +1,63 @@
+{
+  "alsoKnownAs": [
+    "at://iamnbutler.bsky.social"
+  ],
+  "prev": null,
+  "rotationKeys": [
+    "did:key:zQ3shhCGUqDKjStzuDxPkTxN6ujddP4RkEKJJouJGRRkaLGbg",
+    "did:key:zQ3shpKnbdPx3g3CmPf5cRVTPe1HtSwVn5ish3wSnDPQCbLJK"
+  ],
+  "services": {
+    "atproto_pds": {
+      "endpoint": "https://bsky.social",
+      "type": "AtprotoPersonalDataServer"
+    }
+  },
+  "sig": "pBGvA44-TceT3vuncpGyQOaEpqCHbOK513g4mCtf-cpfvtJ801qf_fQSMZpEXrWT9a2pY4wYTsUm_LNxf5du1A",
+  "type": "plc_operation",
+  "verificationMethods": {
+    "atproto": "did:key:zQ3shXjHeiBuRCKmM36cuYnm7YEMzhGnCmCyW92sRJ9pribSF"
+  }
+}
+{
+  "alsoKnownAs": [
+    "at://nate.rip"
+  ],
+  "prev": "bafyreihi3ntkoa4nfp5takg65yr2upviwoxdinfgmsy7sxezsmrl7zshdm",
+  "rotationKeys": [
+    "did:key:zQ3shhCGUqDKjStzuDxPkTxN6ujddP4RkEKJJouJGRRkaLGbg",
+    "did:key:zQ3shpKnbdPx3g3CmPf5cRVTPe1HtSwVn5ish3wSnDPQCbLJK"
+  ],
+  "services": {
+    "atproto_pds": {
+      "endpoint": "https://bsky.social",
+      "type": "AtprotoPersonalDataServer"
+    }
+  },
+  "sig": "WTWPqSJvqozNXc1OzqxVpJFu8Wnn1SGW5Y4pjr5CJUtcfPRd7HdYg4VpjK6XhuNi-NDcCEBW8Kc4z_CcYEY9lg",
+  "type": "plc_operation",
+  "verificationMethods": {
+    "atproto": "did:key:zQ3shXjHeiBuRCKmM36cuYnm7YEMzhGnCmCyW92sRJ9pribSF"
+  }
+}
+{
+  "alsoKnownAs": [
+    "at://nate.rip"
+  ],
+  "prev": "bafyreiapxdoddmz7carhfuiqnufangwxvi64aatzv7mb7okukesov7t3wy",
+  "rotationKeys": [
+    "did:key:zQ3shhCGUqDKjStzuDxPkTxN6ujddP4RkEKJJouJGRRkaLGbg",
+    "did:key:zQ3shpKnbdPx3g3CmPf5cRVTPe1HtSwVn5ish3wSnDPQCbLJK"
+  ],
+  "services": {
+    "atproto_pds": {
+      "endpoint": "https://morel.us-east.host.bsky.network",
+      "type": "AtprotoPersonalDataServer"
+    }
+  },
+  "sig": "IwH5muU-M_q3amOXhEplGWmvg_GSmTg9paTdHpBHx1E8PNu6mRO0lzJgUoWhicFCF3PDMQ28plPsmLs07WFoJQ",
+  "type": "plc_operation",
+  "verificationMethods": {
+    "atproto": "did:key:zQ3shNRL7yXvaKKAhCN5b2WBrEmwQhLKGQX6TXC8HVdk3ZP6e"
+  }
+}

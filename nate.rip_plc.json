@@ -1,0 +1,19 @@
+{
+  "did": "did:plc:5dnwnjydruv7wmbi33xchkr6",
+  "verificationMethods": {
+    "atproto": "did:key:zQ3shNRL7yXvaKKAhCN5b2WBrEmwQhLKGQX6TXC8HVdk3ZP6e"
+  },
+  "rotationKeys": [
+    "did:key:zQ3shhCGUqDKjStzuDxPkTxN6ujddP4RkEKJJouJGRRkaLGbg",
+    "did:key:zQ3shpKnbdPx3g3CmPf5cRVTPe1HtSwVn5ish3wSnDPQCbLJK"
+  ],
+  "alsoKnownAs": [
+    "at://nate.rip"
+  ],
+  "services": {
+    "atproto_pds": {
+      "type": "AtprotoPersonalDataServer",
+      "endpoint": "https://morel.us-east.host.bsky.network"
+    }
+  }
+}
